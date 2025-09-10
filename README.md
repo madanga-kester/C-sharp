@@ -8,11 +8,6 @@ Welcome to my **C# Learning Repository** — a personal space to practice and gr
 
 - ✅ C# Basics (Variables, Loops, Conditionals)
 - ✅ Object-Oriented Programming (Classes, Inheritance, Interfaces)
-- ✅ Collections & LINQ
-- ⏳ File Handling (File I/O)
-- ⏳ Exception Handling
-- ⏳ Async Programming
-- ⏳ .NET Console Apps
 
 ---
 
