@@ -1,0 +1,15 @@
+﻿@model LoginDemo.Models.UserModel
+
+<h2>Login</h2>
+
+<form method="post">
+    <label>Username</label>
+    <input type="text" name="Username" />
+    <br />
+    <label>Password</label>
+    <input type="password" name="Password" />
+    <br />
+    <button type="submit">Login</button>
+</form>
+
+<p style="color:red">@ViewBag.Error</p>

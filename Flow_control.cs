@@ -27,6 +27,9 @@ if (number < 5)
 
 
 
+
+
+
 if (20 > 18)
 {
     Console.WriteLine("20 is greater than 18");
@@ -72,8 +75,7 @@ namespace Conditional
                 Console.WriteLine("{0} is less than 5", number);
             }
 
-            Console.WriteLine("This statement is always executed.");
-          }
+      
     }
 }
 
@@ -187,13 +189,12 @@ namespace Controlflow
 
 
 
-//C# if...else if (if-then-else if) Statement
-
+//C# if...else if (if-then-else if) Statement      
 
 //multiple condition to tsest and execute one of the many block of code.
 
 
-
+           string vehicle = "vehicle";
 
 
         //syntax
@@ -370,7 +371,7 @@ namespace Controlflow
 //Used for simple one-line conditional assignments.
 
 int age = 20;
-string status = (age >= 18) ? "Adult" : "Minor";
+string status = (age >= 18) ? "Adult" : "Minor";   
 Console.WriteLine(status); // Output: Adult
 
 
